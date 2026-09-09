@@ -1,6 +1,6 @@
 cask "peons" do
-  version "4.3.0,14"
-  sha256 "5b45e89df05c37585aeacabff6c2daeb3abfad1f00571bbbb5d5df7f9a2ad9a1"
+  version "4.3.0,15"
+  sha256 "3e6cf951d9f7adf5a871825d913b8cbd1a77c55f30e9abe448bc5d20bf640a97"
 
   url "https://github.com/rpapagiannis/peons/releases/download/v#{version.csv.first}-#{version.csv.second}/Peons-#{version.csv.first}-#{version.csv.second}-arm64-preview.dmg"
   name "Peons"
